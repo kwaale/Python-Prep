@@ -2,6 +2,7 @@
 
 1) Crear una lista que contenga nombres de ciudades del mundo que contenga más de 5 elementos e imprimir por pantalla
 
+
 2) Imprimir por pantalla el segundo elemento de la lista
 
 3) Imprimir por pantalla del segundo al cuarto elemento
